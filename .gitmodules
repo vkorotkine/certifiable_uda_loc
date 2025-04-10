@@ -1,0 +1,20 @@
+[submodule "navlie"]
+	path = navlie
+	url = https://github.com/decargroup/navlie.git
+[submodule "constraint_learning"]
+	path = constraint_learning
+	url = git@github.com:vkorotkine/constraint_learning.git
+	branch = library_refactor
+[submodule "aer1513"]
+	path = aer1513
+	url = https://github.com/utiasASRL/aer1513.git
+[submodule "pyfactorgraph"]
+	path = pyfactorgraph
+	url = https://github.com/vkorotkine/pyfactorgraph.git
+[submodule "pylgmath"]
+	path = pylgmath
+	url = https://github.com/vkorotkine/pylgmath.git
+[submodule "certifiable-tools"]
+	path = certifiable-tools
+	url = https://github.com/vkorotkine/certifiable-tools.git
+	branch = qol_additions
