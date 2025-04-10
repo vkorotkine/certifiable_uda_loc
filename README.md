@@ -50,7 +50,7 @@ Initialize the submodules,
 ```
 git submodule update --init 
 ```
-Install general requirements using TODO do I need this?? 
+Install general requirements using
 ```
 python3 -m pip install -r requirements.txt
 ```
