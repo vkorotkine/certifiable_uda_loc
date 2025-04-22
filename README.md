@@ -28,7 +28,7 @@
 
 
 <!-- The published article may be found [here](https://ieeexplore.ieee.org/document/10607873), -->
-The arXiv article may be found [TODO](TODO). The arXiv version also contains the supplementary material. 
+The arXiv article may be found [here](https://arxiv.org/abs/2504.08547). The arXiv version also contains the supplementary material. 
 ## Getting Started
 This code was developed with Python 3.8.10. 
 
@@ -96,9 +96,17 @@ sudo apt-get install libsuitesparse-dev
 ```
 
 ## Citation
-If you find this code useful, please consider citing our article, 
+If you find this code useful, please consider citing our arXiv preprint, 
 ```
-TODO
+@misc{korotkine2025globallyoptimaldataassociationfreelandmarkbased,
+      title={Globally Optimal Data-Association-Free Landmark-Based Localization Using Semidefinite Relaxations}, 
+      author={Vassili Korotkine and Mitchell Cohen and James Richard Forbes},
+      year={2025},
+      eprint={2504.08547},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2504.08547}, 
+}
 ```
 
 <!-- LICENSE -->
@@ -110,7 +118,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Vassili Korotkine - [@decargroup](https://twitter.com/decargroup) - vassili.korotkine@mail.mcgill.ca - https://vkorotkine.github.io/
 
-Project Link: [TODO](TODO)
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 <!-- ACKNOWLEDGMENTS -->
 
@@ -126,16 +133,16 @@ Project Link: [TODO](TODO)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/decargroup/hessian_sum_mixtures.svg?style=for-the-badge -->
-<!-- [contributors-url]: https://github.com/decargroup/hessian_sum_mixtures/graphs/contributors -->
-<!-- [forks-shield]: https://img.shields.io/github/forks/decargroup/hessian_sum_mixtures.svg?style=for-the-badge -->
-<!-- [forks-url]: https://github.com/decargroup/hessian_sum_mixtures/network/members -->
-<!-- [stars-shield]: https://img.shields.io/github/stars/decargroup/hessian_sum_mixtures.svg?style=for-the-badge -->
-<!-- [stars-url]: https://github.com/decargroup/hessian_sum_mixtures/stargazers -->
-[issues-shield]: https://img.shields.io/github/issues/decargroup/hessian_sum_mixtures.svg?style=for-the-badge
-[issues-url]: https://github.com/decargroup/hessian_sum_mixtures/issues
-[license-shield]: https://img.shields.io/github/license/decargroup/hessian_sum_mixtures.svg?style=for-the-badge
-[license-url]: https://github.com/decargroup/hessian_sum_mixtures/blob/main/LICENSE
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/vkorotkine/certifiable_uda_loc.svg?style=for-the-badge -->
+<!-- [contributors-url]: https://github.com/vkorotkine/certifiable_uda_loc/graphs/contributors -->
+<!-- [forks-shield]: https://img.shields.io/github/forks/vkorotkine/certifiable_uda_loc.svg?style=for-the-badge -->
+<!-- [forks-url]: https://github.com/vkorotkine/certifiable_uda_loc/network/members -->
+<!-- [stars-shield]: https://img.shields.io/github/stars/vkorotkine/certifiable_uda_loc.svg?style=for-the-badge -->
+<!-- [stars-url]: https://github.com/vkorotkine/certifiable_uda_loc/stargazers -->
+[issues-shield]: https://img.shields.io/github/issues/vkorotkine/certifiable_uda_loc.svg?style=for-the-badge
+[issues-url]: https://github.com/vkorotkine/certifiable_uda_loc/issues
+[license-shield]: https://img.shields.io/github/license/vkorotkine/certifiable_uda_loc.svg?style=for-the-badge
+[license-url]: https://github.com/vkorotkine/certifiable_uda_loc/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://ca.linkedin.com/company/decargroup
 [product-screenshot]: images/screenshot.png
